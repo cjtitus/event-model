@@ -2,5 +2,9 @@
   {
     "version": "master",
     "url": "https://cjtitus.github.io/event-model/master/"
+  },
+  {
+    "version": "rechunk_fix",
+    "url": "https://cjtitus.github.io/event-model/rechunk_fix/"
   }
 ]
